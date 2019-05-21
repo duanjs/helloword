@@ -1,4 +1,5 @@
 # helloword
-printf"hello,world";
-#已修改
-hi human！
+
+hi huaman！
+
+我做出了修改
